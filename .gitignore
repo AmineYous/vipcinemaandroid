@@ -1,0 +1,32 @@
+# === GLOBAL ===
+.DS_Store
+Thumbs.db
+
+# === ANDROID ===
+*.iml
+.gradle/
+.idea/
+local.properties
+/.cxx
+/captures/
+/build/
+/app/build/
+/frontend/.gradle/
+/frontend/.idea/
+/frontend/local.properties
+
+# === NODE.JS BACKEND ===
+/backend/node_modules/
+/backend/.env
+/backend/uploads/
+
+# === SQLITE DATABASE ===
+*.db
+
+# === LOGS ===
+*.log
+
+# === OTHER ===
+*.keystore
+.idea/
+
